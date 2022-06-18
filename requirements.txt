@@ -1,0 +1,8 @@
+plotly
+yellowbrick
+sklearn
+spotipy
+numpy
+pandas
+seaborn
+scipy
